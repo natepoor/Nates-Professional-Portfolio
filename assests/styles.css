@@ -1,0 +1,23 @@
+.h1-containter {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.h2-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  h2 {
+    margin: 10px; /* Reset margin */
+  }
+  .container {
+    display: flex;
+    align-items: baseline;
+  }
+  
+  h1, h2 {
+    margin: 10; /* Reset margin */
+  }
+  
